@@ -1,0 +1,5 @@
+" zip.vim version v34
+" Browsing zipfile /root/node-js-sample/terraform/terraform_1.5.0_linux_amd64.zip
+" Select a file with cursor and press ENTER
+
+terraform
